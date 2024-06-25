@@ -1,5 +1,5 @@
 "# SMS--Java-Swing" 
-This commit finalizes the Supermarket Management System (SMS) project, incorporating the following features and improvements:
+- This commit finalizes the Supermarket Management System (SMS) project, incorporating the following features and improvements:
 	
 User Interface:
 - Comprehensive UI built with Java Swing
